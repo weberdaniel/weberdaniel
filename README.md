@@ -1,4 +1,4 @@
-<img align="right" src="https://giphy.com/embed/26uf9QPzzlKPvQG5O" width="480" height="480" >
+<img align="right" src="https://giphy.com/gifs/studiosoriginals-star-trek-josh-freydkis-warp-speed-26uf9QPzzlKPvQG5O" width="480" height="480" >
 
 ### Hi there 👋
 
