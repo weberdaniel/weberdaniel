@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Spacecraft Monitoring and Control System
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on any interesting software research projects
+
 <!--
 **weberdaniel/weberdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
