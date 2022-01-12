@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on <a href="https://www.dlr.de/rb/desktopdefault.aspx/tabid-17495/27785_read-71987/"> Spacecraft Mission Control and Data System </a>
 - 🔭 I’m currently working on <a href="https://www.unibw.de/muquanet"> a Munich Quantum Internet (MuQuaNet) </a>
 - 🌱 I’m currently learning <a href="https://www.amazon.de/Hands-Machine-Learning-end-end/dp/1789955335/ref=asc_df_1789955335/?tag=googshopde-21&linkCode=df0&hvadid=427725720380&hvpos=&hvnetw=g&hvrand=10827406681977259616&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042403&hvtargid=pla-910444179307&psc=1&th=1&psc=1&tag=&ref=&adgrpid=98370310294&hvpone=&hvptwo=&hvadid=427725720380&hvpos=&hvnetw=g&hvrand=10827406681977259616&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042403&hvtargid=pla-910444179307"> Machine Learning (C++) </a>
-- 🌱 I’m currently learning <a href="www.actor-framework.org"> C++ Actor Framework
+- 🌱 I’m currently learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
 - 👯 I’m looking to collaborate on any interesting software research projects
 
 <!--
