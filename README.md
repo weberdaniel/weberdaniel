@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on <a href="https://www.dlr.de/rb/desktopdefault.aspx/tabid-17495/27785_read-71987/"> Spacecraft Mission Control and Data Systems </a>
+- 🔭 I’m currently working on <a href="https://www.dlr.de/rb/desktopdefault.aspx/tabid-17495/27785_read-71987/"> Spacecraft Mission Control and Data System </a>
 - 🔭 I’m currently working on <a href="https://www.unibw.de/muquanet"> a Munich Quantum Internet (MuQuaNet) </a>
 - 🌱 I’m currently learning Machine Learning (C++)
 - 🌱 I’m currently learning <a href="www.actor-framework.org"> C++ Actor Framework
