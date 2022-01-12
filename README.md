@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on a Spacecraft Monitoring and Control System
 - 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Actor Model and C++ Actor Framework (www.actor-framework.org)
 - 👯 I’m looking to collaborate on any interesting software research projects
 
 <!--
