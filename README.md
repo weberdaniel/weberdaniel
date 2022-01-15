@@ -2,12 +2,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spacecraft Mission Control and Data System 
-- 🔭 I’m currently working on the Munich Quantum Internet
-- 🌱 I’m currently learning Machine Learning (C++)
-- 🌱 I’m currently learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
-- 👯 I’m looking to collaborate on any interesting software research projects
-
+- 🔭 I’m working on Spacecraft Mission Control and Data Systems
+- 🔭 I’m working on Munich Quantum Internet
+- 🌱 I’m learning Machine Learning (C++)
+- 🌱 I’m learning Rust
+- 🌱 I’m learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
 <!--
 **weberdaniel/weberdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
