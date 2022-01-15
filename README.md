@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m working on Spacecraft Mission Control and Data Systems
-- 🔭 I’m working on Munich Quantum Internet
+- :rocket: I’m working on Spacecraft Mission Control and Data Systems
 - 🌱 I’m learning Machine Learning (C++)
 - 🌱 I’m learning Rust
 - 🌱 I’m learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
