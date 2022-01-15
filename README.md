@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- :rocket: I’m working on Spacecraft, Ground Station and Data Systems Software
+- :rocket: I’m working on Spacecraft, Ground Station and Ground Data Systems Software
 - 🌱 I’m learning Machine Learning (C++)
 - 🌱 I’m learning Rust
 - 🌱 I’m learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
