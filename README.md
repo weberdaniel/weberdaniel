@@ -2,12 +2,10 @@
 
 ### Hi there 👋
 
-- :rocket: I’m working on Spacecraft Mission Control and Data Systems
+- :rocket: I’m working on Spacecraft, Ground Station and Data Systems Software
 - 🌱 I’m learning Machine Learning (C++)
 - 🌱 I’m learning Rust
 - 🌱 I’m learning <a href="www.actor-framework.org"> C++ Actor Framework </a>
-- :satellite: I have been working on Ground Station Software
-
 <!--
 **weberdaniel/weberdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
