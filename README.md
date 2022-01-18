@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Spacecraft Control Software
+- 🌱 I’m currently learning Machine Learning, AI, Rust
+- 👯 I’m looking to collaborate on software research topics
+- 📫 How to reach me: Mail me at contact@weberdaniel.de
+
 <!--
 **weberdaniel/weberdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
