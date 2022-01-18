@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Spacecraft Control Software
-- 🌱 I’m currently learning Machine Learning, AI, Rust
-- 👯 I’m looking to collaborate on software research topics
+- 🔭 I’m currently working on Spacecraft Monitoring & Control Software
+- 🌱 I’m currently learning Machine Learning, AI & Rust
+- 👯 I’m looking to collaborate on research, science, but also business topics
 - 📫 How to reach me: Mail me at contact@weberdaniel.de
 
 <!--
