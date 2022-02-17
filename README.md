@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Machine Learning, AI & Rust
 - 👯 I’m looking to collaborate on research, science, but also business topics
 - 📫 How to reach me: Mail me at contact@weberdaniel.de
 - ⚡ Fun fact: I love dancing, especially Salsa
